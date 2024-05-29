@@ -2,7 +2,7 @@
 
 ## Day 10 — Dad Jokes :
 
-the ninth project of 50 projects in 50 days challenge
+the tenth project of 50 projects in 50 days challenge
 
 # Live Demo : <a href="https://abdellahak.github.io/50projects50days-Day10/">Visit link</a>
 
